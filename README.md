@@ -14,7 +14,7 @@ It includes tasks like removing numbers, stripping spaces, capitalizing text, an
    ```bash
    git clone https://github.com/yourusername/data-cleaning-scripts.git
 Navigate to the project folder:
-
+ ```bash
 cd data-cleaning-scripts
 
 

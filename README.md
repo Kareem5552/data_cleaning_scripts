@@ -17,12 +17,12 @@ Navigate to the project folder:
  ```bash
 cd data-cleaning-scripts
 
-
+```
 Run any script using Python:
-
+```bash
 python script_name.py
-
-Example
-
+```
+Example :
+```bash
 Input: [' hello123 ', 'world456']
 Output: ['Hello', 'World']

@@ -15,12 +15,13 @@ It includes tasks like removing numbers, stripping spaces, capitalizing text, an
    git clone https://github.com/yourusername/data-cleaning-scripts.git
 Navigate to the project folder:
  ```bash
-cd data-cleaning-scripts
+cd leaning-scripts
 
 ```
 Run any script using Python:
 ```bash
-python script_name.py
+ls
+python "put the script name here"
 ```
 Example :
 ```bash

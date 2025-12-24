@@ -1,4 +1,4 @@
-
+print("--------------------This is a data cleaning python code--------------------\n")
 user_input = input("Enter names separated by commas: ")
 
 # Split input into a list and remove extra spaces

@@ -12,7 +12,7 @@ It includes tasks like removing numbers, stripping spaces, capitalizing text, an
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/data-cleaning-scripts.git
+   git clone https://github.com/Kareem5552/data-cleaning-scripts.git
 Navigate to the project folder:
  ```bash
 cd leaning-scripts

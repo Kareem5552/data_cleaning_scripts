@@ -15,7 +15,7 @@ It includes tasks like removing numbers, stripping spaces, capitalizing text, an
    git clone https://github.com/Kareem5552/data_cleaning_scripts.git
 Navigate to the project folder:
  ```bash
-cd leaning-scripts
+cd cleaning-scripts
 
 ```
 Run any script using Python:
